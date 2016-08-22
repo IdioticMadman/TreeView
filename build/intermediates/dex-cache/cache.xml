@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_48dab80cfab84569343ca94f052c94221142ade5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_833e032807db057fde25e0920de463200c3b8ee8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_4df1151176ad0bce356f1534c2da30da511f3586\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_25276dfc32ddf0961944647d6fe02a569aa6017d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_993d987dc79cb07d34b41e3b70bdc40a86746b78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\robert\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_a9a614b09304e9a9f1e3bf47fba385a50cf6f962\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_25276dfc32ddf0961944647d6fe02a569aa6017d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_4df1151176ad0bce356f1534c2da30da511f3586\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_2ec671032f4fbf43997b04a9d427bd32b1859c4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_833e032807db057fde25e0920de463200c3b8ee8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="2d094182c5440246385fbd975082e01ad8f9f0cd">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_10de65090770fd917e228184a4a7be74d800e7ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_993d987dc79cb07d34b41e3b70bdc40a86746b78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\robert\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_a9a614b09304e9a9f1e3bf47fba385a50cf6f962\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_35f42e2f2b34d11d7ce5aef719e26c677d469964\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_73e3b184da59172536b97fb4c76746f243335c31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_e83cd0f22ba986fee787ecd3817cc62ee882a0c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="974c8abbb2b7b166986af808cf0c4949ab2dbdc6">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_10de65090770fd917e228184a4a7be74d800e7ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_73e3b184da59172536b97fb4c76746f243335c31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_35f42e2f2b34d11d7ce5aef719e26c677d469964\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d7c97a5d1134fc6ccfc0a40a61866e6d39028308\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_bebfd12e7d83ae4140518650b0263877dd4b45fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="6b228dc4ba9ffc8a98b384c69aec8dd4e8c4ef65">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1a4bf2392dc03c1d9a9a03b309d674f84cecdbd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="d5716ab53cc8b75732431a36450b57c050586132">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1a4bf2392dc03c1d9a9a03b309d674f84cecdbd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_63396b7faa48c2c93fca654dbc65793069e23dc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d7c97a5d1134fc6ccfc0a40a61866e6d39028308\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_bebfd12e7d83ae4140518650b0263877dd4b45fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_c9d373c55b1411cc42cb72f0dbcfaf330486dc19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_55dc28e14909709d82991031b31e768e25b61d23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_e83cd0f22ba986fee787ecd3817cc62ee882a0c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_c9d373c55b1411cc42cb72f0dbcfaf330486dc19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_2ec671032f4fbf43997b04a9d427bd32b1859c4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_55dc28e14909709d82991031b31e768e25b61d23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_63396b7faa48c2c93fca654dbc65793069e23dc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github_code\TreeView\TreeView\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\github_code\TreeView\TreeView\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_48dab80cfab84569343ca94f052c94221142ade5\classes.dex" />
+    </item>
+
+</items>
